@@ -46,7 +46,7 @@ app.get("/tasks", (req, res) => {
   });
 });
 
-// Update task status
+// Update tasks status
 app.put("/updatetask/:id", (req, res) => {
   const taskId = req.params.id;
   const { status, task } = req.body;
