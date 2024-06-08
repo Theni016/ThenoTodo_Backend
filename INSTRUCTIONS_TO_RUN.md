@@ -1,7 +1,6 @@
 MAKE SURE Both Backend and Frontend files recide inside the same folder.
 
-E.g. Inside ThenoTodo -> ThenoTodo_Frontend, ThenoTodo -> ThenoTodo_Backend
-        After arranging the files as above proceed below. (Make sure the source code files are in place respectively.)
+E.g. Inside "ThenoTodo" Parent file, "ThenoTodo_Frontend" and "ThenoTodo_Backend" should recide. the source code files should be saved respectively.
 
 INSTRUCTIONS TO RUN BACKEND
 1. Get MySQL Workbench Installed in your pc.
